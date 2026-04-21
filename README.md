@@ -1,6 +1,6 @@
 # 2.0" TFT LCD 240×320 – EDA Files
 
-Fusion 360 and STEP files for the common **2.0-inch 240×320 IPS TFT** with 12-pin FPC. The one you see everywhere on Aliexpress for $4-6).
+Fusion 360 and STEP files for the common **2.0-inch ST7789 240×320 IPS TFT** with 12-pin FPC. The one you see everywhere on Aliexpress for $4-6).
 
 <img width="1512" height="982" alt="Screenshot 2026-04-21 at 2 01 51 PM" src="https://github.com/user-attachments/assets/c3520eeb-daf9-418e-9208-057081ee612c" />
 
